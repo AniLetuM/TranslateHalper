@@ -1,0 +1,225 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Souffle
+「Will…！」
+> CONTEXT: Map019/events/7/pages/0/4/Dialogue < UNTRANSLATED
+Суфле
+「Will…！」
+> END STRING
+
+> BEGIN STRING
+ In the bedroom, Will is sleeping quietly.
+> CONTEXT: Map019/events/7/pages/0/7/Dialogue < UNTRANSLATED
+ In the bedroom, Will is sleeping quietly.
+> END STRING
+
+> BEGIN STRING
+Celica
+「I told him we were defeated by the demons and ran away,
+ which made him to worry about you,
+ and then the curse symptom showed up.」
+> CONTEXT: Map019/events/7/pages/0/10/Dialogue < UNTRANSLATED
+Селика
+「I told him we were defeated by the demons and ran away,
+ which made him to worry about you,
+ and then the curse symptom showed up.」
+> END STRING
+
+> BEGIN STRING
+Souffle
+「Ah…Aaah...AAAA…I'm sorry、I'm so sorry, Will…」
+> CONTEXT: Map019/events/7/pages/0/16/Dialogue < UNTRANSLATED
+Суфле
+「Аx…Ааах...АААА…I'm sorry、I'm so sorry, Will…」
+> END STRING
+
+> BEGIN STRING
+Celica
+「Cmon, he will be fine.
+ Once he gets enough sleep, he will be okay again.」
+> CONTEXT: Map019/events/7/pages/0/20/Dialogue < UNTRANSLATED
+Селика
+「Cmon, he will be fine.
+ Once he gets enough sleep, he will be okay again.」
+> END STRING
+
+> BEGIN STRING
+Souffle
+「*Sob*…u、umm…。
+ Thanks for taking care of Will, Celica.」
+> CONTEXT: Map019/events/7/pages/0/26/Dialogue < UNTRANSLATED
+Суфле
+「*Sob*…u、umm…。
+ Thanks for taking care of Will, Селика.」
+> END STRING
+
+> BEGIN STRING
+Celica
+「All I did were carrying him to the bed,
+ and came back to check him again in the morning.」
+> CONTEXT: Map019/events/7/pages/0/30/Dialogue < UNTRANSLATED
+Селика
+「Аll I did were carrying him to the bed,
+ and came back to check him again in the morning.」
+> END STRING
+
+> BEGIN STRING
+Celica
+「Ah, Also~
+ I won't tell him anything about what you guys did~♪」
+> CONTEXT: Map019/events/7/pages/0/35/Dialogue < UNTRANSLATED
+Селика
+「Аx, Аlso~
+ I won't tell him anything about what you guys did~♪」
+> END STRING
+
+> BEGIN STRING
+Souffle
+「Huh…」
+> CONTEXT: Map019/events/7/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/4/pages/0/83/Dialogue < UNTRANSLATED
+Суфле
+「А?…」
+> END STRING
+
+> BEGIN STRING
+Celica
+「Nihihi, I know 『What you guys did』！」
+> CONTEXT: Map019/events/7/pages/0/44/Dialogue < UNTRANSLATED
+Селика
+「Nihihi, I know 『What you guys did』！」
+> END STRING
+
+> BEGIN STRING
+Souffle
+「Wh、『What we did』…What do you mean?…」
+> CONTEXT: Map019/events/7/pages/0/49/Dialogue < UNTRANSLATED
+Суфле
+「Wh、『What we did』…What do you mean?…」
+> END STRING
+
+> BEGIN STRING
+Celica
+「Don't play dumb～。
+ One night stand with Claudio, right～？」
+> CONTEXT: Map019/events/7/pages/0/52/Dialogue < UNTRANSLATED
+Селика
+「Don't play dumb～。
+ One night stand with Claudio, right～？」
+> END STRING
+
+> BEGIN STRING
+Celica
+「Tasting other man
+ while you already have your beloved husband～。
+ I know, I know~！」
+> CONTEXT: Map019/events/7/pages/0/56/Dialogue < UNTRANSLATED
+Селика
+「Tasting other man
+ while you already have your beloved husband～。
+ I know, I know~！」
+> END STRING
+
+> BEGIN STRING
+Souffle
+「AAAA、T, taste, what…！」
+> CONTEXT: Map019/events/7/pages/0/62/Dialogue < UNTRANSLATED
+Суфле
+「АААА、T, taste, what…！」
+> END STRING
+
+> BEGIN STRING
+Celica
+「Don't worry, I won't tell Will！
+ If he doesn't know it then it isn't cheating！」
+> CONTEXT: Map019/events/7/pages/0/65/Dialogue < UNTRANSLATED
+Селика
+「Don't worry, I won't tell Will！
+ If he doesn't know it then it isn't cheating！」
+> END STRING
+
+> BEGIN STRING
+Celica
+「If he knows that you're cheating,
+ he will collapse in no time~
+ So I will never tell him about this～」
+> CONTEXT: Map019/events/7/pages/0/69/Dialogue < UNTRANSLATED
+Селика
+「If he knows that you're cheating,
+ he will collapse in no time~
+ So I will never tell him about this～」
+> END STRING
+
+> BEGIN STRING
+Celica
+「I'm quite good at Reading~,
+ Alright, Cyaaa～♪」
+> CONTEXT: Map019/events/7/pages/0/74/Dialogue < UNTRANSLATED
+Селика
+「I'm quite good at Reading~,
+ Аlright, Cyaaa～♪」
+> END STRING
+
+> BEGIN STRING
+Souffle
+「Ah, Wait, Celica san！」
+> CONTEXT: Map019/events/7/pages/0/79/Dialogue < UNTRANSLATED
+Суфле
+「Аx, Wait, Селика san！」
+> END STRING
+
+> BEGIN STRING
+ Celican san left the house,
+ even though there are still a lot of things
+ that I want to talk to her.
+> CONTEXT: Map019/events/7/pages/0/82/Dialogue < UNTRANSLATED
+ Селикаn san left the house,
+ even though there are still a lot of things
+ that I want to talk to her.
+> END STRING
+
+> BEGIN STRING
+Souffle
+（Because of me, Will is like this…。
+ What have I done…）
+> CONTEXT: Map019/events/7/pages/0/94/Dialogue < UNTRANSLATED
+Суфле
+（Because of me, Will is like this…。
+ What have I done…）
+> END STRING
+
+> BEGIN STRING
+ Because I was late...
+ that's why Will is like this.
+> CONTEXT: Map019/events/7/pages/0/98/Dialogue < UNTRANSLATED
+ Because I was late...
+ that's why Will is like this.
+> END STRING
+
+> BEGIN STRING
+ And I was late because I was cheating on him...
+> CONTEXT: Map019/events/7/pages/0/102/Dialogue < UNTRANSLATED
+ Аnd I was late because I was cheating on him...
+> END STRING
+
+> BEGIN STRING
+Souffle
+「*Sob*…*Sob*、I…I'm the worst…」
+> CONTEXT: Map019/events/7/pages/0/104/Dialogue < UNTRANSLATED
+Суфле
+「*Sob*…*Sob*、I…I'm the worst…」
+> END STRING
+
+> BEGIN STRING
+ I cheated on my beloved husband,
+ and now I'm regretting it.
+> CONTEXT: Map019/events/7/pages/0/108/Dialogue < UNTRANSLATED
+ I cheated on my beloved husband,
+ and now I'm regretting it.
+> END STRING
+
+> BEGIN STRING
+ Then, I kept taking care of him until he wakes up…。
+> CONTEXT: Map019/events/7/pages/0/111/Dialogue < UNTRANSLATED
+ Then, I kept taking care of him until he wakes up…。
+> END STRING

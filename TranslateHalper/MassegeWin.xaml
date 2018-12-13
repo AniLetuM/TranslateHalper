@@ -1,0 +1,18 @@
+﻿<Window x:Class="TranslateHalper.MassegeWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TranslateHalper"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Информационное окно" Height="329.07" Width="432.558" WindowStyle="None" Background="Beige" ResizeMode="NoResize" AllowsTransparency="True">
+    <Grid>
+        <Label Content="Информация" HorizontalAlignment="Center" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.128,0.232" Width="276" FontSize="16" HorizontalContentAlignment="Center" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="89" Width="407" FontSize="16                    "><Run Text="Иногда"/><Run Text=", "/><Run Text="после работы программы с текстом сбивается кодировка. После чего некоторые символы (а иногда и весь текст) отображаются"/><Run Text=" "/><Run Text="некорректно."/><LineBreak/><Run Text="Пример:"/><LineBreak/><Run/></TextBlock>
+        <Label Content="「I love you…♥♥」 =&gt; 0I love you &amp;&amp;e&amp;e0&#xD;&#xA;「I love you…♥♥」 =&gt; ��I love you��&amp;e&amp;e��" HorizontalAlignment="Left" Margin="10,135,0,0" VerticalAlignment="Top" Height="56" Width="407" FontSize="16" FontWeight="Medium"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,191,0,0" TextWrapping="Wrap" Text="Если столкнулись с подобным случаем вы можете поменять кодировку на одну из предложенных в программе. " VerticalAlignment="Top" Height="67" Width="407" FontSize="16"/>
+        <Button Content="OK" HorizontalAlignment="Center" Margin="116,263,127,0" VerticalAlignment="Top" Width="182" Height="43" FontSize="16" FontWeight="Bold" Click="ButtonBase_OnClick"/>
+
+    </Grid>
+</Window>

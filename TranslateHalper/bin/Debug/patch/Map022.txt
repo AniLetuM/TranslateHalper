@@ -1,0 +1,488 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+　……
+
+　…………At the same time, Will's office.
+> CONTEXT: Map022/events/2/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Boss
+「Will！
+ The invention that you developed is decided to be
+ commercialize soon！」
+> CONTEXT: Map022/events/2/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Huh, is that true！」
+> CONTEXT: Map022/events/2/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Boss
+「Yeah, You can also expect a great amount of bonus too.」
+> CONTEXT: Map022/events/2/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Thank you very much！」
+> CONTEXT: Map022/events/2/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Boss
+「Your invention is so splendid~
+ It will be put in every factory in the capital soon~」
+> CONTEXT: Map022/events/2/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Boss
+「And also, I will allow you to return to your village soon
+ if you keep up the good work！」
+> CONTEXT: Map022/events/2/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+（YESYESYES！ My work is being recognized！
+ This is fucking great, all my efforts are being rewarded！）
+> CONTEXT: Map022/events/2/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+（I need to tell Souffle as soon as possible！
+ I know I'm in the middle of the work but、
+ alright, Let's phone her now…）
+> CONTEXT: Map022/events/2/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ I pulled my mobile phone from my pocket
+ and called her right away.
+> CONTEXT: Map022/events/2/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　*Ringggg*…。
+> CONTEXT: Map022/events/2/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Hellooーo。
+ How are you, Souffle？」
+> CONTEXT: Map022/events/2/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/630/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+「A、Ah、I'm fine。
+ What's it？」
+> CONTEXT: Map022/events/2/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/634/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「I just want to tell you that, my company has decided
+ to commercialise my invention！」
+> CONTEXT: Map022/events/2/pages/0/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/638/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「I might get a loooot of bonus from this！
+ And if the boss is pleased with the result,
+ I will surely get promoted, isn't this feel like a dream?♪」
+> CONTEXT: Map022/events/2/pages/0/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/642/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+「R, Realy？！
+ Wow, that's so nice, congrats~,Will！」
+> CONTEXT: Map022/events/2/pages/0/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/649/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Ah, Thank you~
+ I'm incredibly happy like now～。
+ That's why I called you in the middle of the work.」
+> CONTEXT: Map022/events/2/pages/0/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/653/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+「Ahaha, I see~
+ I'm so happy that your skill is being recognized~♪」
+> CONTEXT: Map022/events/2/pages/0/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/658/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Oh, that's right, what are you doing now?？」
+> CONTEXT: Map022/events/2/pages/0/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/662/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+「Eh？！
+ Erhmm…w, we just finished our adventure today,
+ so we're heading back home.」
+> CONTEXT: Map022/events/2/pages/0/95/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/665/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「I see, it's good to hear that you're safe.」
+> CONTEXT: Map022/events/2/pages/0/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/670/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Well, then I'm returning to the work.
+ Since there's no OT today so I will probably be home
+ by 6PM」
+> CONTEXT: Map022/events/2/pages/0/103/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/673/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+「６PM…I, I got it！」
+> CONTEXT: Map022/events/2/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/678/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Then, see you later~
+ I love you♥」
+> CONTEXT: Map022/events/2/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/681/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+「Ah, I love you too♥
+ Keep up the good work~」
+> CONTEXT: Map022/events/2/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/685/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「YESSS, I'm so cheered up by her voice~！
+ Let's finish all the remaining works！」
+> CONTEXT: Map022/events/2/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　……
+
+　…………Several hours later, home.
+> CONTEXT: Map022/events/2/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　……
+
+　…………Will's office
+> CONTEXT: Map022/events/7/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+（Phew, today is so damn busy,
+ Let's rest a bit.）
+> CONTEXT: Map022/events/7/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　*Ringggg*…！
+> CONTEXT: Map022/events/7/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/10/pages/0/604/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/6/pages/0/249/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Huh？
+ Is it Souffle?」
+> CONTEXT: Map022/events/7/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ I pulled out my mobile phone and answered the call.
+> CONTEXT: Map022/events/7/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Hello、Souffle？」
+> CONTEXT: Map022/events/7/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『Ah…Hello。
+ I'm sorry to call you in the middle of the work.…』
+> CONTEXT: Map022/events/7/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「It's a breaktime so it's okay~。
+ By the way, what's it？」
+> CONTEXT: Map022/events/7/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『The thing is…during the adventure, we were
+ attacked by a very strong demon…』
+> CONTEXT: Map022/events/7/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「WHAT！？
+ Are you okay？！」
+> CONTEXT: Map022/events/7/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『Y…yea、I'm fine。
+ We managed to get away, right now we're resting
+ in a nearby village.』
+> CONTEXT: Map022/events/7/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Phewww～…Good to hear that.」
+> CONTEXT: Map022/events/7/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『T, that's why I might return home a bit late today…』
+> CONTEXT: Map022/events/7/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『Umm...
+ I'll not be able to make it home for dinner tonight so…、
+ Don't wait up, okay?』
+> CONTEXT: Map022/events/7/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「I see, I got it~
+ I will buy a bento and eat it by myself then.」
+> CONTEXT: Map022/events/7/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『I'm sorry…I can't cook a dinner for you today…。
+ I, I'm such an incompetent wife…』
+> CONTEXT: Map022/events/7/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ Souffle said sorry to me in such a weak voice.
+> CONTEXT: Map022/events/7/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「H、Hey、Why did you say something like that!
+ That's not true at all！」
+> CONTEXT: Map022/events/7/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「Don't say something like that again!
+ Please take some rests and return home safely!」
+> CONTEXT: Map022/events/7/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+（Really...she always care about me all the time…）
+> CONTEXT: Map022/events/7/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『Err…Will、I, I will return home n…』
+> CONTEXT: Map022/events/7/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『Hyaaa…！！』
+> CONTEXT: Map022/events/7/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ When she was about to say something,
+ she screamed out in surprised.
+> CONTEXT: Map022/events/7/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「HeyーSouffle, What's wrong？
+ What was that just nowー？」
+> CONTEXT: Map022/events/7/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『*Pant*…*Pant*…It、it's nothing.』
+> CONTEXT: Map022/events/7/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『I, I will be home late so…。
+ Don't overwork, okay?…』
+> CONTEXT: Map022/events/7/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+「……？
+ I got it.
+ Souffle, Please return home safely.」
+> CONTEXT: Map022/events/7/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+『A, Ah…』
+> CONTEXT: Map022/events/7/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　*Beep*…。
+> CONTEXT: Map022/events/7/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+（Souffle…had to go through a dangerous situation again…。
+ I hope she's safe, I hope there's nothing happens to her.）
+> CONTEXT: Map022/events/7/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Wil
+（Ah…Nonono！
+ I shouldn't worry too much.）
+> CONTEXT: Map022/events/7/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+（She called me because she didn't want me to worry,
+ So I must not worry too much！）
+> CONTEXT: Map022/events/7/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Will
+（Since she will be home late,
+ It's my job to prepare the meal,
+ I will cook something easy then！）
+> CONTEXT: Map022/events/7/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　……
+
+　…………１０ PM, Home.
+> CONTEXT: Map022/events/7/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING

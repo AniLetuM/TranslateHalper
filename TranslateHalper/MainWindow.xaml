@@ -1,0 +1,21 @@
+﻿<Window x:Class="TranslateHalper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TranslateHalper"
+        mc:Ignorable="d"
+        Title="TranslateHelper v0.1" Height="252.023" Width="451.163" WindowStartupLocation="Manual" ResizeMode="NoResize" Icon="icon.png" ShowInTaskbar="False">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="Путь до фаила/папки" VerticalAlignment="Top" Width="300" GotFocus="FocusClictBox"/>
+        <Button Content="..." HorizontalAlignment="Left" Margin="319,10,0,0" VerticalAlignment="Top" Width="108" Height="23" FontSize="16" Click="OpenFileDialog_OnClick"/>
+        <Button Content="Открыть словарь замен" HorizontalAlignment="Left" Margin="10,120,0,0" VerticalAlignment="Top" Width="417" Height="36" Click="ButtonBase_OnClick" FontSize="16"/>
+        <Line X1="0" Y1="68" X2="663" Y2="68" Stroke="Black" Margin="0,0,0,10"/>
+        <ComboBox x:Name="comboxCoder" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" Width="375" Height="28"/>
+        <Button x:Name="ButtonInfo" Content="?" HorizontalAlignment="Left" Margin="399,80,0,0" VerticalAlignment="Top" Width="28" Height="28" FontSize="16" RenderTransformOrigin="0.251,-1.122" Click="ButtonInfo_OnClick"/>
+        <Line X1="0" Y1="170" X2="663" Y2="170" Stroke="Black"/>
+        <Button x:Name="StartButton" Content="Старт" HorizontalAlignment="Left" Margin="10,182,0,0" VerticalAlignment="Top" Width="417" Height="32" FontSize="16" Click="StartButton_OnClick"/>
+        <CheckBox x:Name="DirectPathCheck" Content="Выбирать дерикторию" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="159"/>
+
+    </Grid>
+</Window>

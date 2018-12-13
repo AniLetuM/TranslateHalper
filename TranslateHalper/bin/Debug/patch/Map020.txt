@@ -1,0 +1,74 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+　……
+
+　…………The next morning
+> CONTEXT: Map020/events/1/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ I kept getting violated by Clau so many times and
+ then I lost my consciousness...
+ When I woke up, it's already in the next morning.
+> CONTEXT: Map020/events/1/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+「*Pant*、nn、haa…！」
+> CONTEXT: Map020/events/1/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+（What should I dooo…Will must be worrying about me…）
+> CONTEXT: Map020/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ So I hurried up and returned to my home.
+> CONTEXT: Map020/events/1/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+（H, How…do I explain this to him…）
+> CONTEXT: Map020/events/1/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Celica
+「Ah, you finally came back~」
+> CONTEXT: Map020/events/1/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+「Celica san…？
+ Why are you here？」
+> CONTEXT: Map020/events/1/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Celica
+「Hmm～Will worried about you too much and collapsed.
+ So I had to put him to bed.」
+> CONTEXT: Map020/events/1/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Souffle
+「Wh…Will collapsed？！
+ No way…！」
+> CONTEXT: Map020/events/1/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
